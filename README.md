@@ -92,7 +92,7 @@ azure-resume/
 ---
 
 ### **📜 License**  
-MIT License - See [LICENSE](https://github.com/kanubir/azure-resume/blob/main/LICENSE).  
+MIT License - See [LICENSE](https://github.com/kanubir/azure-resume?tab=MIT-1-ov-file).  
 
 ---
 
