@@ -180,8 +180,11 @@ BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
 
-# macOS system files
+# macOS
 .DS_Store
+._*
+.Spotlight-V100
+.Trashes
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
