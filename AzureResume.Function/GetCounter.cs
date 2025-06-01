@@ -23,7 +23,7 @@ public class GetCounter
     public async Task<Counter> Run([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequestData req,
         [CosmosDBInput("Resume", "Counter", Connection = "CosmosDbConnectionString", Id = "1", PartitionKey = "1")] Counter inputCounter)
     {
-        _logger.LogInformation("Counter trigger function processed a request.");
+        _logger.LogInformation("HttpTrigger Function - Counter processed a request.");
 
         inputCounter = _counterService.IncrementCounter(inputCounter);
 
