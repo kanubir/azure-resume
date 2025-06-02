@@ -12,6 +12,8 @@ This repository contains the **complete code** for a **cloud-hosted resume** on 
 
 📖 **For the full step-by-step guide**, see: **[Build Your Cloud Resume on Azure (Guide)](https://tulip-wallaby-757.notion.site/Azure-Cloud-Resume-Challenge-1877a6cb62e880cba62ce320288606e7)**  
 
+**👨🏻‍💻 View my live azure cloud resume [here](https://www.ranbirnarang.com/)**.
+
 ---
 
 ### **🔧 Prerequisites**  
