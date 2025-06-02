@@ -1,6 +1,6 @@
 # **Azure Cloud Resume Challenge**  
 
-### **🚀 Project Overview**
+### **🌐 Project Overview**
 This repository contains the **complete code** for a **cloud-hosted resume** on **Microsoft Azure**, built as part of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/).  
 
 🔹 **Frontend**: Static resume (HTML/CSS/JS) deployed via **Azure Storage + CDN**  
@@ -10,13 +10,13 @@ This repository contains the **complete code** for a **cloud-hosted resume** on 
 🔹 **Infrastructure**: Provisioned with **Terraform (IaC)**  
 🔹 **Testing**: Unit & integration tests for reliability  
 
-📖 **For the full step-by-step guide**, see: **[Build Your Cloud Resume on Azure (Guide)](https://tulip-wallaby-757.notion.site/Azure-Cloud-Resume-Challenge-1877a6cb62e880cba62ce320288606e7)**  
+**📖 For the full step-by-step guide**, see: **[Build Your Cloud Resume on Azure (Guide)](https://tulip-wallaby-757.notion.site/Azure-Cloud-Resume-Challenge-1877a6cb62e880cba62ce320288606e7)**  
 
-**👨🏻‍💻 View my live azure cloud resume [here](https://www.ranbirnarang.com/)**.
+**🚀 View my live azure cloud resume [here](https://www.ranbirnarang.com/)**.
 
 ---
 
-### **🔧 Prerequisites**  
+### **🧰 Prerequisites**
 - **Azure Account** (free tier works)
 - **Visual Studio Code**
 - **Custom Domain**
@@ -29,7 +29,7 @@ This repository contains the **complete code** for a **cloud-hosted resume** on 
 
 ---
 
-### **🛠 Repository Structure**  
+### **📂 Repository Structure**  
 ```
 azure-resume/
 ├── .github/workflows/           # CI/CD pipelines (GitHub Actions)
@@ -55,7 +55,7 @@ azure-resume/
 
 ---
 
-### **⚡ Quick Start (Deployment)**  
+### **⚡️ Quick Start (Deployment)**  
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/kanubir/azure-resume.git
@@ -70,11 +70,11 @@ azure-resume/
    - Add Azure credentials to GitHub Secrets  
    - Push changes to trigger workflows  
 
-📌 **Detailed instructions?** Follow the **[full guide](https://tulip-wallaby-757.notion.site/Azure-Cloud-Resume-Challenge-1877a6cb62e880cba62ce320288606e7)**.  
+**🔍 Detailed instructions?** Follow the **[full guide](https://tulip-wallaby-757.notion.site/Azure-Cloud-Resume-Challenge-1877a6cb62e880cba62ce320288606e7)**.  
 
 ---
 
-### **🔗 Key Components**  
+### **🧩 Key Components**  
 | Component          | Technology Used      | Purpose                          |
 |--------------------|----------------------|----------------------------------|
 | **Frontend**       | Azure Storage + CDN  | Hosts static resume website      |
@@ -86,7 +86,7 @@ azure-resume/
 
 ---
 
-### **📖 Learn More**  
+### **ℹ️ Learn More**  
 - **[Full Step-by-Step Guide](https://tulip-wallaby-757.notion.site/Azure-Cloud-Resume-Challenge-1877a6cb62e880cba62ce320288606e7)** – How to build this from scratch  
 - [Azure Documentation](https://learn.microsoft.com/en-us/azure/)  
 - [Cloud Resume Challenge](https://cloudresumechallenge.dev/)  
